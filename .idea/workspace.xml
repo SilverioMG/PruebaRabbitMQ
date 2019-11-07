@@ -18,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/atopecode/pruebarabbitmq/manager/connection/RabbitMQConnectionManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="-173">
               <caret line="142" column="39" selection-start-line="142" selection-start-column="39" selection-end-line="142" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -816,7 +816,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/atopecode/pruebarabbitmq/manager/connection/RabbitMQConnectionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="-173">
           <caret line="142" column="39" selection-start-line="142" selection-start-column="39" selection-end-line="142" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
