@@ -1,0 +1,7 @@
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/config/RabbitMQConfig.java
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/PruebarabbitmqApplication.java
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/dto/RabbitMQMessage.java
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/manager/RabbitMQManager.java
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/messagelistener/RabbitMQMessageListener.java
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/controller/RabbitMQController.java
+/home/very/IdeaProjects/pruebarabbitmq/src/main/java/net/atopecode/pruebarabbitmq/ServletInitializer.java
