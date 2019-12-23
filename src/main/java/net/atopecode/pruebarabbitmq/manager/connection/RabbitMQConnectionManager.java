@@ -40,6 +40,15 @@ public class RabbitMQConnectionManager extends RabbitMQConnectionManagerBase {
         this.connectionFactory = getConnectionFactory(connectionValues);
         initialize();
     }
+    
+    //TODO... Completar este método para que cuando se cierre el 'ServicioWeb' se desconecte del server de RabbitMQ, sino queda la conexión
+    //TODO... del Listener abierta.
+    /*@PreDestory
+    private void preDestory(){
+        if(this.connectionFactory != null){
+            this.connectionFactory.close();
+        }
+    }*/
 
     /**
      * Este método crea los 'Exchange', 'Queues' y 'Bindings' necesarios si no existen.
